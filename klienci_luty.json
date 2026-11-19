@@ -1,0 +1,6 @@
+[
+  {"name": "tomasz wójcik", "city": "wrocław", "spent": 320.00},
+  {"name": "ANNA NOWAK", "city": "kraków", "spent": 230.00},
+  {"name": "katarzyna lewandowska", "city": "poznań", "spent": 125.75},
+  {"name": null, "city": "łódź", "spent": 50.00}
+]
